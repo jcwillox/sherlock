@@ -30,3 +30,8 @@ tests/.excluded_sites
 
 # Vim swap files
 *.swp
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
